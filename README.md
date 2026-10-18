@@ -52,11 +52,6 @@ Building APIs, backend services, and modular architectures that connect AI servi
 
 We focus on building practical technology with clear objectives, thoughtful engineering, and room for continuous improvement.
 
-### NAJDA — Smart Emergency Response System
-An intelligent emergency response platform designed to improve emergency reporting, support response coordination, and help emergency services access more structured information.
-
-**Focus areas:** AI-assisted reporting, conversational interfaces, geolocation integration, knowledge-grounded first-aid guidance, and response-support systems.
-
 ### AI Assistant Solutions
 AI-powered applications designed to improve access to information, streamline workflows, and deliver context-aware assistance.
 
@@ -135,6 +130,8 @@ For collaboration or technical inquiries, contact us through our official commun
 *Engineering Intelligence. Building What's Next.*
 
 - GitHub: [NextMind Labs](https://github.com/NextMind-Labs)
+- VisitWebsite: [NextMind Labs](https://nextmindai.net)
+
 
 Add your official website, business email, and professional social links here when available.
 
