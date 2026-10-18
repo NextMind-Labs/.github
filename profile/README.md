@@ -3,8 +3,6 @@
 ### Engineering Intelligence. Building What's Next.
 
 **NextMind Labs** is an AI-focused technology organization dedicated to researching, engineering, and building intelligent software solutions that address real-world challenges. We combine artificial intelligence, modern software engineering, and data-driven approaches to transform ideas into practical, scalable digital products.
-
-[Explore Our Work](./our-project) &nbsp;·&nbsp; [ Our Technology](./tech-stack) &nbsp;·&nbsp; [ Get in Touch](./contact-us)
 ---
 
 ## About NextMind Labs
