@@ -130,7 +130,7 @@ For collaboration or technical inquiries, contact us through our official commun
 *Engineering Intelligence. Building What's Next.*
 
 - GitHub: [NextMind Labs](https://github.com/NextMind-Labs)
-- VisitWebsite: [NextMind Labs](https://nextmindai.net)
+- VisitWebsite: [NextMind Website](https://nextmindai.net)
 
 
 Add your official website, business email, and professional social links here when available.
